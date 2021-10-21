@@ -8,6 +8,9 @@
    <img src="https://img.shields.io/github/last-commit/vilcagamarracf/Python_Snippets?style=flat-square" alt="GitHub last commit"/>
 </p>
 
+## About this repository
+
+Here I will be gathering some of my most useful code snippets for Python using the Colab editor. Feel free to use whatever you consider important.
 
 ## Content
 
@@ -19,6 +22,8 @@ By the time, I have uploaded some colab notebooks with useful information.
 - [geemap: A library for Google Earth Engine](https://colab.research.google.com/github/vilcagamarracf/Python_Snippets/blob/main/Snippets/Snippets_geemap.ipynb)
 
 ## Contact me
+
+In these social networks I share a variety of content about Precision Agriculture, programming with Earth Engine and many more. 
 
 > &nbsp;&middot;&nbsp; Website [vilcagamarracf.github.io](https://vilcagamarracf.github.io/) &nbsp;&middot;&nbsp;
 > GitHub [@vilcagamarracf](https://github.com/vilcagamarracf) &nbsp;&middot;&nbsp;
