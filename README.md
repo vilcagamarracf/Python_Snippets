@@ -26,6 +26,6 @@ By the time, I have uploaded some colab notebooks with useful information.
 In these social networks I share a variety of content about Precision Agriculture, programming with Earth Engine and many more. 
 
 > &nbsp;&middot;&nbsp; Website [vilcagamarracf.github.io](https://vilcagamarracf.github.io/) &nbsp;&middot;&nbsp;
-> GitHub [@vilcagamarracf](https://github.com/vilcagamarracf) &nbsp;&middot;&nbsp;
+> LinkedIn [@cesarvilca](https://www.linkedin.com/in/cesarvilca/) &nbsp;&middot;&nbsp;
 > Twitter [@vilcagamarracf](https://twitter.com/vilcagamarracf)
 
