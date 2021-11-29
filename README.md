@@ -16,10 +16,10 @@ Here I will be gathering some of my most useful code snippets for Python using t
 
 By the time, I have uploaded some colab notebooks with useful information.  
 
-- [Using Python in Google Colab](https://colab.research.google.com/github/vilcagamarracf/Python_Snippets/blob/main/Snippets/Snippets_Colab.ipynb)
-- [Google Earth Engine in Colab](https://colab.research.google.com/github/vilcagamarracf/Python_Snippets/blob/main/Snippets/Snippets_GEE.ipynb)
-- [Managing data with Pandas](https://colab.research.google.com/github/vilcagamarracf/Python_Snippets/blob/main/Snippets/Snippets_Pandas.ipynb)
-- [geemap: A library for Google Earth Engine](https://colab.research.google.com/github/vilcagamarracf/Python_Snippets/blob/main/Snippets/Snippets_geemap.ipynb)
+- [Snippets_Colab](Python_Snippets/Snippets/Snippets_Colab.ipynb): Using Python in Google Colab
+- [Snippets_GEE](Python_Snippets/Snippets/Snippets_GEE.ipynb): Google Earth Engine in Colab
+- [Snippets_Pandas](Python_Snippets/Snippets/Snippets_Pandas.ipynb): Managing data with Pandas
+- [Snippets_geemap](Python_Snippets/Snippets/Snippets_geemap.ipynb): geemap: A library for Google Earth Engine
 
 ## Contact me
 
