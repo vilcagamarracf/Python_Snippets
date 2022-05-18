@@ -16,10 +16,14 @@ Here I will be gathering some of my most useful code snippets for Python using t
 
 By the time, I have uploaded some colab notebooks with useful information.  
 
-- [Snippets_Colab](snippets/Snippets_Colab.ipynb): Using Python in Google Colab
-- [Snippets_GEE](https://colab.research.google.com/github/vilcagamarracf/Python_Snippets/blob/main/Snippets/Snippets_GEE.ipynb): Google Earth Engine in Colab
-- [Snippets_Pandas](snippets/Snippets_Pandas.ipynb): Managing data with Pandas
-- [Snippets_geemap](snippets/Snippets_geemap.ipynb): geemap: A library for Google Earth Engine
+- Using ipynb viewer: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](
+https://nbviewer.org/github/vilcagamarracf/Playing-with-Python/tree/main/notebooks/)
+
+- or these links:
+   - [Snippets_Colab](snippets/Snippets_Colab.ipynb): Using Python in Google Colab
+   - [Snippets_GEE](https://colab.research.google.com/github/vilcagamarracf/Python_Snippets/blob/main/snippets/Snippets_GEE.ipynb): Google Earth Engine in Colab
+   - [Snippets_Pandas](snippets/Snippets_Pandas.ipynb): Managing data with Pandas
+   - [Snippets_geemap](snippets/Snippets_geemap.ipynb): geemap: A library for Google Earth Engine
 
 ## Contact me
 
