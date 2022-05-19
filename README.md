@@ -16,8 +16,7 @@ Here I will be gathering some of my most useful code snippets for Python using t
 
 By the time, I have uploaded some colab notebooks with useful information.  
 
-- Using ipynb viewer: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](
-https://nbviewer.org/github/vilcagamarracf/Playing-with-Python/tree/main/notebooks/)
+- Using ipynb viewer: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/vilcagamarracf/Python_Snippets/tree/main/snippets/)
 
 - or these links:
    - [Snippets_Colab](snippets/Snippets_Colab.ipynb): Using Python in Google Colab
