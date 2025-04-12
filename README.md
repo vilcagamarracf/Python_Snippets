@@ -14,6 +14,7 @@ Here I will be gathering some of my most useful code snippets for Python using t
 
 ## Content
 
+### Snippets
 By the time, I have uploaded some colab notebooks with useful information.  
 
 - Using ipynb viewer: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/vilcagamarracf/Python_Snippets/tree/main/snippets/)
@@ -23,6 +24,11 @@ By the time, I have uploaded some colab notebooks with useful information.
    - [Snippets_GEE](https://colab.research.google.com/github/vilcagamarracf/Python_Snippets/blob/main/snippets/Snippets_GEE.ipynb): Google Earth Engine in Colab
    - [Snippets_Pandas](snippets/Snippets_Pandas.ipynb): Managing data with Pandas
    - [Snippets_geemap](snippets/Snippets_geemap.ipynb): geemap: A library for Google Earth Engine
+
+### Examples
+- [vizcachas_graficos](vizcachas_graficos.ipynb) : One of my first jobs with Python.
+- [Grafica_Articulo_Datosmet](Grafica_Articulo_Datosmet.ipynb) - My first plot with meteorological data. I have a new version so there will be an update soon.
+- [GenerarPDF](GenerarPDF.ipynb) - PDFs reports with the ReportLab library.
 
 ## Contact me
 
