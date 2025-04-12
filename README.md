@@ -26,7 +26,7 @@ By the time, I have uploaded some colab notebooks with useful information.
    - [Snippets_geemap](snippets/Snippets_geemap.ipynb): geemap: A library for Google Earth Engine
 
 ### Examples
-- [vizcachas_graficos](vizcachas_graficos.ipynb) : One of my first jobs with Python.
+<!-- - [vizcachas_graficos](vizcachas_graficos.ipynb) : One of my first jobs with Python. -->
 - [Grafica_Articulo_Datosmet](Grafica_Articulo_Datosmet.ipynb) - My first plot with meteorological data. I have a new version so there will be an update soon.
 - [GenerarPDF](GenerarPDF.ipynb) - PDFs reports with the ReportLab library.
 
